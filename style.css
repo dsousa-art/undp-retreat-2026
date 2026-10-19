@@ -1,0 +1,28 @@
+body{
+    font-family:Arial, sans-serif;
+    background:#f5f7fa;
+    margin:0;
+}
+
+.navbar{
+    background:#004b87;
+    padding:20px;
+}
+
+.nav-links a{
+    color:white;
+    text-decoration:none;
+    margin-right:20px;
+}
+
+.section{
+    padding:50px;
+}
+
+.day-card{
+    background:white;
+    padding:25px;
+    border-radius:12px;
+    box-shadow:0 4px 12px rgba(0,0,0,.1);
+    margin-bottom:20px;
+}
