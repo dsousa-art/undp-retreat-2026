@@ -26,3 +26,16 @@ body{
     box-shadow:0 4px 12px rgba(0,0,0,.1);
     margin-bottom:20px;
 }
+.day-card h2{
+    color:#004b87;
+    margin-bottom:15px;
+}
+
+.day-card ul{
+    line-height:1.8;
+}
+
+.day-card:hover{
+    transform:translateY(-3px);
+    transition:0.3s;
+}
